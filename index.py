@@ -78,3 +78,12 @@ with open('txtfiles/rimac.txt', 'a') as f:
 with open('txtfiles/main.txt', 'a') as f:
     f.write(mainBusyness)
     f.write("\n")
+with open('txtfiles/alt.txt', 'a') as f:
+    f.write(getWeekday(datetime.today().weekday()))
+    f.write("\n")
+    f.write(current_time)
+    f.write("\n")
+    f.write(rimacBusyness)
+    f.write("\n")
+    f.write(mainBusyness)
+    f.write("\n")
