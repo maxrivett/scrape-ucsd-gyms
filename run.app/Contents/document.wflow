@@ -65,7 +65,7 @@ git pull --ff-only
 python3 index.py
 git add .
 git commit -m "test"
-git push -u origin main</string>
+git push</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
