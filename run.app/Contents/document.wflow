@@ -64,7 +64,7 @@ cd Desktop/Other/CS/Python/scraperimac/scrape-ucsd-gyms
 git pull --ff-only
 python3 index.py
 git add .
-git commit -m "test"
+git commit -m "$today"
 git push -u origin main</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
