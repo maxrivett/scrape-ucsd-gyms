@@ -66,7 +66,7 @@ python3 index.py
 git add .
 git commit -m "test"
 git remote add origin 'https://github.com/maxrivett/scrape-ucsd-gyms'
-git push -u origin master</string>
+git push -u origin main</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
